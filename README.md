@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-We are using Flask as a backend. The backend is using Flask. The backend is in the root directory under the "api" folder. You'll need 2 terminals, one running the frontend and the other the backend.
+We are using Flask as a backend. The frontend is using React. The backend is in the root directory under the "api" folder. You'll need 2 terminals, one running the frontend and the other the backend.
 
 ## Available Scripts
 
