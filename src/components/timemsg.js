@@ -34,7 +34,7 @@ class Timemsg extends Component {
         if (error) {
             return (<div>Error: {error.message}</div>);
           } else {
-            return (<div>This is the current time: {currentTime} </div>);
+            return (<div>This is today's date: {currentTime} </div>);
           }
       }
 
